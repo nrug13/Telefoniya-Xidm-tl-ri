@@ -3,7 +3,7 @@
 
 ---
 
-# Telefon Services Dashboard
+# Telephony Services Dashboard
 
 ## Overview
 This dashboard provides a comprehensive view of various telephone services offered by different providers. It includes data on the number of services, their categories, and their prices. Users can filter and visualize data based on provider, customer type, and service category.
