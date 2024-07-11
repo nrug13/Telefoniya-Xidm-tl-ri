@@ -1,4 +1,5 @@
-![image](https://github.com/nrug13/Telefoniya-Xidm-tl-ri/assets/101041926/bd204bec-d4d4-49eb-bd3d-6ab72f5619c7)
+![image](https://github.com/nrug13/Telefoniya-Xidm-tl-ri/assets/101041926/f1788dd2-315d-43db-ba4e-a1448e5038fd)
+
 
 ---
 
