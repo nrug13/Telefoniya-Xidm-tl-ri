@@ -49,4 +49,4 @@ This dashboard provides a comprehensive view of various telephone services offer
 3. **Interpreting Charts**: The bar chart helps identify which categories have the most or least number of services and how these are distributed among providers.
 4. **Detailed View**: Refer to the tables for a detailed breakdown of individual services and their attributes.
 
-Other contributors: Aidan Ismayilova, Asmar Baghirova
+Other contributors: Aida Ismayilova, Asmar Baghirova
